@@ -1,0 +1,12 @@
+class Equality
+{
+	public static void main(String[] args) 
+	{
+		System.out.println(10==10);//true
+		System.out.println(10!=10);//flase
+		System.out.println(10>10);//flase "greater than
+		System.out.println(10<10);//flase "lesser than
+		System.out.println(10>=10);//true "greater than are equal to
+		System.out.println(10<=10);//true "lesser than are equal to
+	}
+}
